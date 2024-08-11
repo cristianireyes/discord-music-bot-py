@@ -3,6 +3,5 @@
     pkgs.python310Full
     pkgs.ffmpeg
     pkgs.libopus
-    pkgs.nodejs
   ];
 }
