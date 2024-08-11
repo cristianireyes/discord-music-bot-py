@@ -6,7 +6,7 @@ if [ ! -d "discord-bot-py-env" ]; then
 fi
 
 # Activar el entorno virtual
-source discord-bot-py-env/Scripts/activate
+source discord-bot-py-env/bin/activate
 
 # Instalar dependencias
 pip install -r requirements.txt

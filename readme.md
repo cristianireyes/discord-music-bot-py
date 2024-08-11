@@ -9,7 +9,7 @@ python3 -m venv discord-bot-py-env
 ### Activa el Entorno Virtual
 
 ```bash
-discord-bot-py-env\Scripts\activate
+discord-bot-py-env\bin\activate
 ```
 
 ### Instala las Dependencias
